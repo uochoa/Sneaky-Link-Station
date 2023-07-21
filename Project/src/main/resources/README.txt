@@ -1,1 +1,0 @@
-Static folder contains static languages such as html, css, and javascript. 
