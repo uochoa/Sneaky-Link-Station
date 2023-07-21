@@ -1,1 +1,1 @@
-Static files contain static languages such as html, css, and javascript. 
+Static folder contains static languages such as html, css, and javascript. 
