@@ -1,0 +1,1 @@
+This is for static files, such as html, css, and javascript. 
