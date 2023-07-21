@@ -1,1 +1,1 @@
-This is for static files, such as html, css, and javascript. 
+Static files contain static languages such as html, css, and javascript. 
