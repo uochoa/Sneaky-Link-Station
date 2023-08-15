@@ -1,0 +1,4 @@
+Standard (15): 15 rooms available
+Deluxe (10): 10 rooms available
+Suite (5): 5 rooms available
+
