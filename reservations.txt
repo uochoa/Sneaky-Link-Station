@@ -1,0 +1,2 @@
+Name: nora q, Phone Number: 0987654321, Email: nota@jh.com, Check-in: 08-23-2023 at null, Payment Type: cash, Total: $1062.0
+Name: nora 23, Phone Number: 12345678901, Email: Nora@gmail.com, Check-in: 08-30-2023 at null, Payment Type: cash, Total: $531.0
